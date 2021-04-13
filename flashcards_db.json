@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Hello",
+    "answer": "Hola"
+  },
+
+  {
+    "question": "Nice to meet you.",
+    "answer": "Mucho gusto"
+  },
+
+  {
+    "question": "Good morning",
+    "answer": "Buenos dias"
+  },
+
+  {
+    "question": "Goodbye",
+    "answer": "Adios"
+  }
+
+]
